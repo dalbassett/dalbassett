@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalbassett
-- 👀 I’m interested in email development, marketing automation, and marketing automation platform development.
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript, Velocity script (Marketo), SQL, and Python.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me: dallinbassett1@gmail.com
