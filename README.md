@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalbassett
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, Velocity script (Marketo), SQL, and Python.
+- 🌱 I’m currently learning SQL and Javascript.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me: dallinbassett1@gmail.com
 
